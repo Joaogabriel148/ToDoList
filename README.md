@@ -16,7 +16,7 @@ Uma lista de tarefas simples
 ```
 <br/>
 
-<img src="https://github.com/Joaogabriel148/Text-Editor/blob/main/img/Captura%20de%20tela%202024-10-25%20194903.png"/>
+<img src="https://github.com/Joaogabriel148/ToDoList/blob/main/img/Captura%20de%20tela%202025-03-06%20172003.png"/>
 
 ## :handshake: Colaboradores
 <table>
